@@ -27,3 +27,7 @@
 *.exe
 *.out
 *.app
+smalljac/amicable
+smalljac/lpdata
+smalljac/lpoly
+smalljac/moments
